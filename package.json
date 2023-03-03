@@ -1,0 +1,21 @@
+{
+  "name": "chat-gpt-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.4.0",
+    "chalk": "^4.1.2",
+    "chatgpt": "^4.2.0",
+    "discord-api-types": "^0.37.21",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
