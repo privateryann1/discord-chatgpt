@@ -29,7 +29,7 @@ If using pterodactyl NodeJS egg, you can modify the "done" message found in `src
 
 Navigate to `.env` in the project root directory and insert your API keys.
 
-[OpenAI](https://platform.openai.com/account/api-keys)
+[OpenAI Account Page](https://platform.openai.com/account/api-keys)
 
 [Discord Developer Portal](https://discord.com/developers/applications)
 ## Usage/Examples
