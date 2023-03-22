@@ -25,7 +25,7 @@ How to build the project with npm
   npm run
 ```
 
-If using pterodactyl NodeJS egg, you can modify the "done" message found in `src/events/client/ready.js`. This should be set to the same thing found in your egg start configuration.
+If using pterodactyl NodeJS egg, you can modify the "done" message found in `src/events/client/ready.js`. This should be set to the same thing found in your egg start configuration. Otherwise, you can ignore this step.
 
 Navigate to `.env` in the project root directory and insert your API keys.
 
