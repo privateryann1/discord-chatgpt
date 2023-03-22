@@ -17,7 +17,7 @@ https://openai.com/blog/chatgpt
 
 ## Installation
 
-How to build the project with npm
+How to install and run the project with npm
 
 ```bash
   # navigate to project directory
