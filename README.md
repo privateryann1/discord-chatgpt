@@ -42,3 +42,6 @@ Navigate to `.env` in the project root directory and insert your API keys.
 
 https://discord.gg/djKdpbnyWc
 
+## License
+
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
